@@ -1,0 +1,7 @@
+apiVersion: testgroup.egapm/v1
+kind: Testkind
+metadata:
+  name: testkind-sample
+spec:
+  # Add fields here
+  foo: bar
